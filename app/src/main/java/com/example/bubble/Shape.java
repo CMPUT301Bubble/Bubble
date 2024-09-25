@@ -5,7 +5,7 @@ public class Shape {
     //ATTRIBUTES
     private int x=0;
     private int y=0;
-
+    String colour = "green";
     //CONSTRUCTOR
     public Shape(int x, int y){
         this.x=x;
