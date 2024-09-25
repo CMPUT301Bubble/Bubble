@@ -1,7 +1,7 @@
 package com.example.bubble;
 
 public class Shape {
-
+    String color = "periwinkle";
     //ATTRIBUTES
     private int x=0;
     private int y=0;
