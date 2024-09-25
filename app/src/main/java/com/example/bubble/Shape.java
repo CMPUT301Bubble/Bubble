@@ -5,12 +5,11 @@ public class Shape {
     //ATTRIBUTES
     private int x=0;
     private int y=0;
-
+    String color = "turquoise";
     //CONSTRUCTOR
     public Shape(int x, int y){
         this.x=x;
         this.y=y;
-        String color = "turquoise";
     }
 
 
