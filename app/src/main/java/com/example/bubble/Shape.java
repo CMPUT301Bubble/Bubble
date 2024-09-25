@@ -5,6 +5,7 @@ public class Shape {
     //ATTRIBUTES
     private int x=0;
     private int y=0;
+    String color = "blue";
 
     //CONSTRUCTOR
     public Shape(int x, int y){
