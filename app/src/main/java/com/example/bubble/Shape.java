@@ -5,9 +5,7 @@ public class Shape {
     //ATTRIBUTES
     private int x=0;
     private int y=0;
-
     String color = "$PUT_YOUR_CHOICE_OF_COLOR";
-
     //CONSTRUCTOR
     public Shape(int x, int y){
         this.x=x;
